@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekgoud23&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekgoud23" /> </p>
 
 
-- 🔭 I’m currently working on [**Excel-PowerBI**](https://github.com/abhishekgoud23/Bike-Sales---Excel-Data-analysis-Dashboard)
+- 🔭 I’m currently working on [**Predictive Modeling for Health Inspections**]([https://github.com/abhishekgoud23/Bike-Sales---Excel-Data-analysis-Dashboard](https://github.com/DATA-606-2023-FALL-TUESDAY/Thamatam_Abhishek/tree/main))
 
-- 🌱 I’m currently learning **Data science - ML, Tableau**
+- 🌱 I’m currently learning **Data science - ML, Stramlit**
 
 - 👯 I’m looking to collaborate on **Data Science and machine learning**
 
