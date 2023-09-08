@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [**Predictive Modeling for Health Inspections**](https://github.com/abhishekgoud23/Bike-Sales---Excel-Data-analysis-Dashboard](https://github.com/DATA-606-2023-FALL-TUESDAY/Thamatam_Abhishek/tree/main))
 
-- 🌱 I’m currently learning **Data science - ML, Stramlit**
+- 🌱 I’m currently learning **Data science - ML, Streamlit**
 
 - 👯 I’m looking to collaborate on **Data Science and machine learning**
 
