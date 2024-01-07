@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekgoud23&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekgoud23" /> </p>
 
 
-- 🔭 I’m currently working on [**Predictive Modeling for Health Inspections**](https://github.com/abhishekgoud23/Bike-Sales---Excel-Data-analysis-Dashboard](https://github.com/DATA-606-2023-FALL-TUESDAY/Thamatam_Abhishek/tree/main))
+- 🔭 I’m working as a Software Engineer intern at Impruvon Health.
 
 - 🌱 I’m currently learning **Data science - ML, Streamlit**
 
