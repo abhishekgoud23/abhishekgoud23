@@ -6,7 +6,7 @@
 
 - 🔭 I’m working as a Software Engineer intern at Impruvon Health.
 
-- 🌱 I’m currently learning **Data science - GenAI, **
+- 🌱 I’m currently learning **Data science - GenAI, NLP**
 
 - 👯 I’m looking to collaborate on **Data Science and machine learning**
 
