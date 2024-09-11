@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **abhishekgoud.thamatam@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1QE880bZQEx2BB9gFGyCXuKJ9oCLH24ZZ/view?usp=sharing)](https://drive.google.com/file/d/1QE880bZQEx2BB9gFGyCXuKJ9oCLH24ZZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
