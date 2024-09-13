@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science and machine learning**
 
-- 🤝 I’m looking for help with **Anything with data**
+- 🤝 I’m looking and helping with **Anything with data**
 
-- 💬 Ask me about **Data science**
+- 💬 Ask me about **Data science, Data Analysis**
 
 - 📫 How to reach me **abhishekgoud.thamatam@gmail.com**
 
