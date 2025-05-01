@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data science - GenAI, NLP**
 
-- 👯 I’m looking to collaborate on **Data Science and machine learning**
+- 👯 I’m looking to collaborate on **Data Science and Machine Learning**
 
 - 🤝 I’m looking and helping with **Anything with data**
 
