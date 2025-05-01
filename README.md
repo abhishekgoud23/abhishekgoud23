@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekgoud23&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekgoud23" /> </p>
 
 
-- 🔭 I’m working as a Data Science Lead at Impruvon Health.
+- 🔭 I’m working as a Data Scientist at C3 AI.
 
 - 🌱 I’m currently learning **Data science - GenAI, NLP**
 
